@@ -1,0 +1,16 @@
+ .odd {
+    background-color: pink;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.three{
+    font-size: xx-large;
+}
+#even-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+}
+#even-2 {
+    color: blue;
+    font-size: 36px;
+}
